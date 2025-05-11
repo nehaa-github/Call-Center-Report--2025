@@ -3,17 +3,17 @@ This Call Center Performance Dashboard aims to provide insights into call trends
 
 This report has two main focus areas: Call Performance Metrics and Representative/Regional Analysis. Each section highlights different dimensions of call center efficiency and caller experience. The dashboard is designed to be insightful, visually engaging, and data-driven.
 
-Repository Structure
+## Repository Structure
 The repository is structured as follows:
 
 Data-Source file: Call Center Raw Data.xlsx
 
 Assets(included in .xlsx): Contains design elements and background visuals used in EXCEL.
 
-Tools and Technologies Used
+## Tools and Technologies Used
 📌 MS Excel
 
-Here are the insights/trends from the dashboard:
+## Here are the insights/trends from the dashboard:
 Call Trend by Month and Weekday
 
 Call Volume and Amount by Representative
